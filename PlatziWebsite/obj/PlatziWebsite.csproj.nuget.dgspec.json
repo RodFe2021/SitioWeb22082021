@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodv07\\Desktop\\CURSOSNET\\WEBAPP_01_INTRO_AZURE\\PlatziWebsite\\PlatziWebsite.csproj": {}
+    "C:\\Users\\rodv07\\Desktop\\cursosnet\\WEBAPP_01_INTRO_AZURE\\SitioWeb22082021\\PlatziWebsite\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodv07\\Desktop\\CURSOSNET\\WEBAPP_01_INTRO_AZURE\\PlatziWebsite\\PlatziWebsite.csproj": {
+    "C:\\Users\\rodv07\\Desktop\\cursosnet\\WEBAPP_01_INTRO_AZURE\\SitioWeb22082021\\PlatziWebsite\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodv07\\Desktop\\CURSOSNET\\WEBAPP_01_INTRO_AZURE\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\rodv07\\Desktop\\cursosnet\\WEBAPP_01_INTRO_AZURE\\SitioWeb22082021\\PlatziWebsite\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "C:\\Users\\rodv07\\Desktop\\CURSOSNET\\WEBAPP_01_INTRO_AZURE\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectPath": "C:\\Users\\rodv07\\Desktop\\cursosnet\\WEBAPP_01_INTRO_AZURE\\SitioWeb22082021\\PlatziWebsite\\PlatziWebsite.csproj",
         "packagesPath": "C:\\Users\\rodv07\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodv07\\Desktop\\CURSOSNET\\WEBAPP_01_INTRO_AZURE\\PlatziWebsite\\obj\\",
+        "outputPath": "C:\\Users\\rodv07\\Desktop\\cursosnet\\WEBAPP_01_INTRO_AZURE\\SitioWeb22082021\\PlatziWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\rodv07\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
